@@ -1,0 +1,21 @@
+this is the modified version of 10.txt
+git add .
+git commit -m "10.txt modified"
+
+git log
+sudo su
+/root
+
+
+
+
+
+
+
+
+
+exit
+
+
+
+
